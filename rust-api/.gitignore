@@ -6,3 +6,4 @@
 .DS_Store
 /target/
 Cargo.lock
+.env
